@@ -13,9 +13,22 @@ Materialize, a CSS Framework based on material design
 Chrome 35+, Firefox 31+, Safari 7+, IE 10+
 
 ## Changelog
+- v0.97.0 (June 21, 2015)
+  - **Documentation changed to use Official Google Icon web font**
+  - **Input errors added**
+  - Flicker on Firefox on dropdowns fixed
+  - Pagination made more responsive
+  - Modal now prevents scrolling
+  - Modal animation added
+  - Support for multiple modals added
+  - Programmatic control of FAB to open/close added
+  - Programmatic control of slider to play/pause added
+  - Plus many more bug fixes
+  
 - v0.96.1 (April 6, 2015)
   - Dropdown Fixes
   - Materialize functions fixed for Meteor
+
 - v0.96.0 (April 1, 2015)
   - **Toasts, transitions, scrollfire added under Materialize namespace**
   - **Dropdown is now created as a child of its parent**
