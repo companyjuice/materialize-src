@@ -1,0 +1,19 @@
+{
+  "name": "materialize-src",
+  "description": "Materialize CSS Source Code (unzipped)",
+  "author": "Alvin Wang, Alan Chang",
+  "url": "http://materializecss.com/",
+  "version": "0.97.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martymcgee/materialize-src.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "directories" : {
+    "font": "font",
+    "js": "js",
+    "sass": "sass"
+  },
+  "engine": "node >= 0.10"
+}
